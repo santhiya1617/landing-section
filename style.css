@@ -1,0 +1,44 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+.landing-section-wrapper {
+    padding: 10rem;
+    height: 100vh;
+    background-color: #0056D2
+}
+
+
+.landing-section-wrapper div {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
+
+.landing-section-wrapper h1 {
+    font-size: 2.4rem;
+    line-height: 1.2;
+    color: #ffffff;
+}
+
+.landing-section-wrapper p {
+    font-size: 17px;
+    font-weight: 600;
+    color: #d1d1d1;
+    margin-top: 20px;
+
+}
+
+.landing-section-wrapper button {
+    margin-top: 20px;
+    border: none;
+    padding: 10px 25px;
+    background-color: #fff;
+    color: #0056D2;
+    font-weight: bold;
+    font-size: 1.2rem;
+    border-radius: 7px;
+}
+
+.landing-section-wrapper img {
+    border-radius: 15px;
+}
